@@ -1,4 +1,7 @@
-## pServer.js
+﻿## pServer.js
+#### pServer.js通过module.export = ... 的方式暴露给外界一个函数；
+#### 会作对传入的端口参数做扁平化处理；
+#### 会将端口以对象形式写入ports.json中，以供前后台js共享；
 #### 该插件可作为开发依赖安装
 #### demo_server.js 是commonjs使用的例子;
 ```
