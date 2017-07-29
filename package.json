@@ -1,0 +1,23 @@
+{
+  "name": "ports.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doc2git/ports.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doc2git/ports.js/issues"
+  },
+  "homepage": "https://github.com/doc2git/ports.js#readme",
+  "dependencies": {
+    "to-flat-obj": "^1.0.1"
+  }
+}
