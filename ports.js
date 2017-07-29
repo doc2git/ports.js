@@ -26,7 +26,7 @@
         module.exports = p;
         return p;
     } else {
-        window.port = p;
+        window.ports = p;
         return p
     }
 })();
